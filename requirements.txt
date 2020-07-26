@@ -1,0 +1,4 @@
+click
+clint
+pycrypto
+requests
